@@ -1,5 +1,5 @@
 # 💫 I'm Chica
-I'm currently learning HTML, CSS & PYTHON.<br>My interests coding, graphic design and gaming.
+I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding, graphic design and gaming.
 
 
 ## 🌐 Socials:
