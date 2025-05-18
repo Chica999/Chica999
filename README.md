@@ -3,7 +3,7 @@ I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding, graphic d
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chica999.bsky.social) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chica999x) ![Profile Views](https://komarev.com/ghpvc/?username=Chica999&color=blue&style=flat)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chica999.bsky.social) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chica999x) ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=a200ff)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -11,6 +11,7 @@ I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding, graphic d
 ![](https://github-readme-stats.vercel.app/api?username=Chica999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chica999&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chica999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
