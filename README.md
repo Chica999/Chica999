@@ -22,7 +22,7 @@
  About me
 </h2>
 
-I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding, graphic design and gaming.
+I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding and gaming.
 
 <h2>
   💻 Tech
