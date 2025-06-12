@@ -1,66 +1,106 @@
-# Welcome to Chica999's profile! 👋
-
 <div align="center">
-  <h3>Visitor count</h3>
-  <img src="https://profile-counter.glitch.me/[Chica999]/count.svg" />
+
+  <a href="#">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0090ff&background=FF238800&center=true&vCenter=true&width=435&lines=+Hi+there+I'm+Chica999;a+;Web+Developer+Beginner" alt="Typing SVG" /></a>
+
+  </a>
+  <div align="center">
+ 
+
+<img src="https://komarev.com/ghpvc/?username=trimbex&label=Profile%20Views&color=a94af6&style=flat" alt="visitors" />
 </div>
 
-<h2 align="center">🌐 Socials</h2>
 
 <div align="center">
   <a href="https://bsky.app/profile/chica999.bsky.social">
     <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   <a href="https://twitter.com/Chica999x">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
 </div>
+
+# 👻 Chica999
+
+I'm a **Beginner Web Developer** passionate about building clean, responsive, and creative Web experiences.  
+Right now, I’m diving deep into:
+
+
+<div align="center">
+ 
+
+<img src="https://komarev.com/ghpvc/?username=Chica999&label=Profile%20Views&color=a94af6&style=flat" alt="visitors" />
+</div>
+
+
+<div align="center">
+  <a href="https://bsky.app/profile/chica999.bsky.social">
+    <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="https://twitter.com/Chica999x">
+    
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=200&section=header&text=Chica999&fontSize=60&fontColor=0090ff&animation=fadeIn&fontAlignY=36&desc=Web%20Development%20Beginner&descAlignY=55" width="100%">
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode," alt="Skills" />
 
 <h2>
  <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" width="35" height="35" alt="Hacker"/>
  About me
 </h2>
+<table align="center" bgcolor="#0D1117" style="border: 1px solid #00FFFF; border-radius: 16px; overflow: hidden;">
+<tr>
+<td style="border: none;">
 
-I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding and gaming.
+ <ul>
+ <li>🧠 Web Developer Beginner with a passion for <b style="color: #00FFFF;">AI & Deep Learning</b></li>
+ <li>🌐 HTML, CSS</li>
+ <li>⚙️ Git & GitHub workflows</li>
+ <li>📱 Responsive Web Design</li>
+ <li>🚀 Frontend frameworks (soon!)</li>
+ 
+   
+---
+### ⚡ What I'm working on:
+<li>Building my first portfolio site</li>
+<li>Learning DOM manipulation and animations</li>
+<li>Experimenting with dark UI aesthetics 👩‍💻</li>
 
-<h2>
-  💻 Tech
-</h2>
+
+- ---
+ ### 📫 Reach me:
+<li>Discord: `xchica999`</li>
+<li>Coming soon: personal website!</li>
+
+
+
+---
+
+
+ 🔥 My Motto  
+**Built in silence. Shipped with fire. — Chica**
+
+ 
+ </ul>
+</td>
+<td width="40%" style="border: none;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG51MHpvNTQ2ZnhhMHV2cHVjamh5ZHI3M2J3NXV4eWJianhxcTkyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Developer animation"/>
+</td>
+</tr>
+</table>
 
 
 
 
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2>
-  Tools
-</h2>
-
-<div align="center">
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/CLAUDE-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/KRITA-3BABFF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" alt="stats"/> Github Stats
 
@@ -105,5 +145,8 @@ I'm currently learning HTML, CSS & PYTHON.<br>My interests are coding and gaming
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=FOLLOW+ME+FOR+MORE+FUN" alt="Scrolling LED Text" />
+
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=170&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=30&fontColor=00FFFF&animation=fadeIn" width="100%">
 </div>
 
