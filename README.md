@@ -4,25 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=0090ff&background=FF238800&center=true&vCenter=true&width=435&lines=+Hi+there+I'm+Chica999;a+;Web+Developer+Beginner" alt="Typing SVG" /></a>
 
-  </a>
-  <div align="center">
  
-
-<img src="https://komarev.com/ghpvc/?username=trimbex&label=Profile%20Views&color=a94af6&style=flat" alt="visitors" />
-</div>
-
-
-<div align="center">
-  <a href="https://bsky.app/profile/chica999.bsky.social">
-    <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://twitter.com/Chica999x">
-    
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-
-</div>
-
 # 👻 Chica999
 
 I'm a **Beginner Web Developer** passionate about building clean, responsive, and creative Web experiences.  
