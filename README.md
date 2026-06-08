@@ -12,7 +12,8 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode," alt="Skills" />
 
-<img src="https://komarev.com/ghpvc/?username=Chica999&label=Profile%20Views&color=a94af6&style=flat" alt="visitors" />
+![Visitors](https://komarev.com/ghpvc/?username=Chica999&label=Profile+Views&color=FF0000&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Chica999?label=Followers&style=flat&color=FF0000&labelColor=1a1a1a)](https://github.com/Chica999)
 </div>
 
 <h2>
