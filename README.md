@@ -67,15 +67,8 @@
 <details>
   <summary>🔥 Streak Stats</summary>
   <br/>
-  <!-- Add your GitHub streak stats here -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Chica999&theme=radical&hide_border=false"/>
-</details>
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <!-- Add your GitHub stats here -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chica999&show_icons=true&theme=radical"/>
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Chica999&theme=radical&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)](https://git.io/streak-stats)
 </details>
 
 
@@ -83,18 +76,9 @@
   <summary>🏆 Git profile Trophies</summary>
   <br/>
   <!-- Add GitHub trophies here -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Chica999&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+ <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Chica999&theme=radical&no-frame=true" />
 </details>
 
-<details>
-  <summary>📂 My Repositories</summary>
-  <br/>
-  <!-- List your repositories or add a dynamic repository showcase -->
-  <a href="https://github.com/Chica999/Chica999">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chica999&repo=Chica999&theme=dark" alt="Repository Card"/>
-  </a>
-  <!-- Add more repositories as needed -->
-</details>
 
 
 ## <div align="center">🎯 Current Focus</div>
@@ -131,24 +115,31 @@
 | **🎯 Practice Projects** | `✅ Ongoing` | ![Multiple](https://img.shields.io/badge/-Various-FF6B6B?style=flat-square&logo=code&logoColor=white) ![Technologies](https://img.shields.io/badge/-Technologies-4ECDC4?style=flat-square&logo=terminal&logoColor=white) | `██████████` 100% |
 
 <div align="center">
+---
 
-**🎪 Project Highlights**
-```diff
-! 🌟 Portfolio Website
-  → Responsive design with dark theme
-  → Interactive animations and effects
-  → Showcase of learning journey
+## 🤖 Coming Soon — Chroma AI
 
-! 🚀 Full-Stack Applications  
-  → Modern React frontend
-  → RESTful API development
-  → Database integration practice
+<div align="center">
 
-! 💡 Daily Coding Challenges
-  → Algorithm practice
-  → Problem-solving skills
-  → Code quality improvement
 ```
+ ██████╗██╗  ██╗██████╗  ██████╗ ███╗   ███╗ █████╗      █████╗ ██╗
+██╔════╝██║  ██║██╔══██╗██╔═══██╗████╗ ████║██╔══██╗    ██╔══██╗██║
+██║     ███████║██████╔╝██║   ██║██╔████╔██║███████║    ███████║██║
+██║     ██╔══██║██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║    ██╔══██║██║
+╚██████╗██║  ██║██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║    ██║  ██║██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝
+```
+
+> **A Discord bot is on its way. Something big is being built in the dark.**
+>
+> 🔴 Status: `LAUNCHING SOON`
+
+*Watch this space.*
+
+</div>
+
+---
+
 
 </div>
 
